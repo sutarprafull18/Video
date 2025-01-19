@@ -1,5 +1,8 @@
-streamlit
-openai-whisper
+streamlit==1.32.0
+moviepy==1.0.3
+openai-whisper==20231117
 googletrans==3.1.0a0
-moviepy
-gTTS
+gTTS==2.5.1
+torch==2.2.0
+numpy==1.26.4
+ffmpeg-python==0.2.0
